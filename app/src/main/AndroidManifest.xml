@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.zapnut.project.HIKANUSA">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:name="id.zapnut.project.HIKANUSA.Util.YouApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data android:name="com.onesignal.NotificationOpened.DEFAULT" android:value="DISABLE" />
+        <activity
+            android:name="id.zapnut.project.HIKANUSA.Activity.SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.Login" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.Register" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.AboutUs" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.PrivacyPolice" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.Profile" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.EditProfile" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.SCDetail" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.SubCategory" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.AllComment" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.MainActivity" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.FavouriteDetail" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.RelatedBook" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.Search" />
+        <activity android:name="id.zapnut.project.HIKANUSA.Activity.PDFShow"/>
+        <activity
+            android:name="com.folioreader.ui.folio.activity.FolioActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="orientation|screenSize">
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4691023575957887~5177933275"/>
+
+    </application>
+
+</manifest>

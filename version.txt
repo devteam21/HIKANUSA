@@ -1,0 +1,29 @@
+Version 1
+1.1.2
+Compiled at 1353.080719
+- Menambahkan fitur rating, komentar, dan sistem download ebook
+- Update logo, background, splashscreen
+- Optimalisasi kode
+- Perbaikan server hikanusa
+- Integrasi onesignal
+- Perbaikan minor
+
+Version 2
+1.1.3
+Compiled at 1839.180719
+- Menambahkan sesuatu pada setting about
+- Optimasi server
+
+Version 3
+1.1.4
+Compiled at 0010.030819
+- Pemindahan data ke server baru
+- Biar lebih smooth
+- Optimasi kode ulang
+
+Version 5
+1.1.6
+Compiled at 2200.180819
+- Fix Registration number phone at backend
+- Changed Backend PHP Version to 5.6 because PDF Viewer library Android needed
+- Improved UI backend
