@@ -4,9 +4,8 @@
 <p align="center">
 https://drive.google.com/file/d/1JZ0QKNXKRuxwPlqogB2-c3x8QwI8XO9x/view
  
-Just remember, that bases is very deprecated therefore you need update the grandle, core and library for work in 2021.
-I'am not pretty sure it'll be work 100% I just wanna help who looking for bases.
-</p>
+Just remember, that file contain (PHP BACKEND & ANDROID SOURCE) is very deprecated therefore you need update the grandle, core and library for work in 2021.
+I'am not pretty sure it'll be work 100% I just wanna help who looking for code. (This code from codecanyon i've search in safest forums)
 
 <h2 align="center">WHY DO I REMOVE MY SOURCE CODE??</h2>
 <p align="center">
