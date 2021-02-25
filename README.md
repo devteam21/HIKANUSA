@@ -1,3 +1,19 @@
+<h1 align="center">DEPRECATED PROJECT</h1>
+
+<h3 align="center">DOWNLOAD BASE PROGRAM (NOT HIKANUSA)</h3>
+<p align="center">
+https://drive.google.com/file/d/1JZ0QKNXKRuxwPlqogB2-c3x8QwI8XO9x/view
+ 
+Just remember, that bases is very deprecated therefore you need update the grandle, core and library for work in 2021.
+I'am not pretty sure it'll be work 100% I just wanna help who looking for bases.
+</p>
+
+<h2 align="center">WHY DO I REMOVE MY SOURCE CODE??</h2>
+<p align="center">
+Because many of you email me asking for the php backend source code and some say my source code doesn't work, of course it will be an error because it must have 2 important components namely the php backend and the android code itself, So instead of being obscure and disappointing, I'll delete it...
+</p>
+
+
 <h1 align="center">SPONSORED BY</h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/19890311/63231927-c5012380-c24c-11e9-8ab4-a58b85418b44.gif">
@@ -52,28 +68,14 @@ The ANDROID SOURCE script for showing epub or pdf
 NOT TESTED FOR EPUB FILES AND ONLY SUPPORT ANDROID ABOVE < 7
 
 ## DEMO BACKEND
-[https://project.zapnut.id](https://project.zapnut.id) Then choice HIKANUSA project
-
-USERNAME : HIKANUSA
-
-PASSWORD : 12345
-
-For Questions Email me at <a href="https://mailto:hackmedev@gmail.com/">hackmedev@gmail.com</a>
+DEPRECATED PROJECT
 
 ## DOCUMENTATIONS
-[Check out the documentation](https://#/) I will make it as soon as possible
+DEPRECATED PROJECT
 
 ## REQUIREMENTS
 - PHP 5.6
 - Android studio 3.4.2
-
-## DOWNLOAD SOURCES
-- Latest APK : [HIKANUSA APK v1.1.6](https://drive.google.com/open?id=1MVDNPMa8YjdMcJSPC2dIP0FPVC1OVazY)
-- Open using Android studio 3.4.2
-
-- Latest PHP BACKEND : [PHP BACKEND v2](https://drive.google.com/open?id=1rp9X9b4OA2A9n1Iha8CYBhINuiV0he-W)
-- Unzip files and upload them to your PHP server
-- Change default admin's passwor
 
 ## SUPPORT OUR PROJECT
 
@@ -81,6 +83,6 @@ Please ⭐️ this repository if this project helped you!
 
 ## License
 
-Copyright (c) 2019 [Devaldi Akbars](https://github.com/devteam21/).
+Copyright (c) 2019 [Devaldi Akbars]
 
 This project is MIT licensed.
